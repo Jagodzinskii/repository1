@@ -22,7 +22,7 @@ Main main()
 
 
         System.out.println("Liczba elementow zbioru" + integerSet.size);
-
+// Wojciech Œwiderski jest slaby z matmy
 
     }
 
